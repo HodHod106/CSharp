@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/bin/Debug/net8.0/BooleanAndOperators
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/bin/Debug/net8.0/BooleanAndOperators.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/bin/Debug/net8.0/BooleanAndOperators.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/bin/Debug/net8.0/BooleanAndOperators.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/bin/Debug/net8.0/BooleanAndOperators.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/refint/BooleanAndOperators.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/BooleanAndOperators.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/04-Bool&Operators/BooleanAndOperators/obj/Debug/net8.0/ref/BooleanAndOperators.dll

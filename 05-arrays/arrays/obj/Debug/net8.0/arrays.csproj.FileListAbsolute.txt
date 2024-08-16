@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/bin/Debug/net8.0/arrays
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/bin/Debug/net8.0/arrays.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/bin/Debug/net8.0/arrays.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/bin/Debug/net8.0/arrays.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/bin/Debug/net8.0/arrays.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/refint/arrays.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/arrays.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/05-arrays/arrays/obj/Debug/net8.0/ref/arrays.dll

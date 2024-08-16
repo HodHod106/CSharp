@@ -57,6 +57,12 @@ x = "abcd";
 System.Console.WriteLine(x);
 
 
-//  char (letter datatype )
+// char (letter datatype )
 char c = 's';
 System.Console.WriteLine(c);
+
+
+object o = "sss"; // object datatype and you can change the datatype
+System.Console.WriteLine(o);
+o = 5;
+System.Console.WriteLine(o);

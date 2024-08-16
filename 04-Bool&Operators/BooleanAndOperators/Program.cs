@@ -6,10 +6,10 @@ bool isvip = true; // true or false;
 var x = 10;
 var y = 10;
 
-System.Console.WriteLine(x==y);
+System.Console.WriteLine(x==y); // True
 
-var z = (x==y);
-System.Console.WriteLine(z);
+var z = (x==y); 
+System.Console.WriteLine(z); // True
 
 // comparison operators
 var total = 1000;

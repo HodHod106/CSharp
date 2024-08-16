@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanAndOperators", "BooleanAndOperators\BooleanAndOperators.csproj", "{ED153BB1-FE39-43BF-831E-FB6116514B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "casting", "casting\casting.csproj", "{7A9EA4E7-E6EF-4C3C-8EA0-D9E39906077A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ED153BB1-FE39-43BF-831E-FB6116514B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED153BB1-FE39-43BF-831E-FB6116514B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ED153BB1-FE39-43BF-831E-FB6116514B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ED153BB1-FE39-43BF-831E-FB6116514B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9EA4E7-E6EF-4C3C-8EA0-D9E39906077A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9EA4E7-E6EF-4C3C-8EA0-D9E39906077A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9EA4E7-E6EF-4C3C-8EA0-D9E39906077A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9EA4E7-E6EF-4C3C-8EA0-D9E39906077A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3F90C3CA-5E8D-4AEB-9EC3-5B8B4A0F8EEA}
+		SolutionGuid = {CFCB92AA-99C3-4879-9266-88ED0F87932F}
 	EndGlobalSection
 EndGlobal

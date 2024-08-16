@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/bin/Debug/net8.0/Exressions
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/bin/Debug/net8.0/Exressions.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/bin/Debug/net8.0/Exressions.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/bin/Debug/net8.0/Exressions.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/bin/Debug/net8.0/Exressions.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/refint/Exressions.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/Exressions.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/06-Expressions/Exressions/obj/Debug/net8.0/ref/Exressions.dll

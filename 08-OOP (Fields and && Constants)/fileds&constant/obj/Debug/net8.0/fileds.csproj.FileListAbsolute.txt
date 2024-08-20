@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/bin/Debug/net8.0/fileds
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/bin/Debug/net8.0/fileds.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/bin/Debug/net8.0/fileds.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/bin/Debug/net8.0/fileds.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/bin/Debug/net8.0/fileds.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/refint/fileds.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/fileds.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/08-OOP (Fields and && Constants)/fileds&constant/obj/Debug/net8.0/ref/fileds.dll

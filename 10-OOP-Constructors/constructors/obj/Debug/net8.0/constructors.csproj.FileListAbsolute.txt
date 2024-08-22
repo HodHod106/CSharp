@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/bin/Debug/net8.0/constructors
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/bin/Debug/net8.0/constructors.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/bin/Debug/net8.0/constructors.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/bin/Debug/net8.0/constructors.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/bin/Debug/net8.0/constructors.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/refint/constructors.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/constructors.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/10-OOP-Constructors/constructors/obj/Debug/net8.0/ref/constructors.dll

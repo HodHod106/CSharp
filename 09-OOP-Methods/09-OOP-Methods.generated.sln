@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{154A1C46-7989-496E-AF6B-A4909F1B4675}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "addMethods-OOP", "solution\addMethods-OOP\addMethods-OOP.csproj", "{D611448F-98C7-4286-8698-160071D8EC1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "solution\methods\methods.csproj", "{8CC9F3DD-0C56-4F64-B940-8CF5006A535D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D611448F-98C7-4286-8698-160071D8EC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D611448F-98C7-4286-8698-160071D8EC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D611448F-98C7-4286-8698-160071D8EC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D611448F-98C7-4286-8698-160071D8EC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC9F3DD-0C56-4F64-B940-8CF5006A535D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC9F3DD-0C56-4F64-B940-8CF5006A535D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC9F3DD-0C56-4F64-B940-8CF5006A535D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC9F3DD-0C56-4F64-B940-8CF5006A535D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D611448F-98C7-4286-8698-160071D8EC1C} = {154A1C46-7989-496E-AF6B-A4909F1B4675}
+		{8CC9F3DD-0C56-4F64-B940-8CF5006A535D} = {154A1C46-7989-496E-AF6B-A4909F1B4675}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85194D2E-E802-4723-902A-00A829BE7AB7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/bin/Debug/net8.0/addMethods-OOP
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/bin/Debug/net8.0/addMethods-OOP.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/bin/Debug/net8.0/addMethods-OOP.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/bin/Debug/net8.0/addMethods-OOP.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/bin/Debug/net8.0/addMethods-OOP.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/refint/addMethods-OOP.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/addMethods-OOP.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/09-OOP-Methods/solution/addMethods-OOP/obj/Debug/net8.0/ref/addMethods-OOP.dll

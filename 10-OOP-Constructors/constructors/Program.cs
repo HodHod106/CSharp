@@ -21,6 +21,9 @@ namespace constructors{
 
             System.Console.WriteLine(e2.dispalyName());
 
+            PrivateCtor p = PrivateCtor.Create(1009,"ALi","Walid");
+            System.Console.WriteLine(p.dispalyName());
+
 
         }
     }
@@ -75,9 +78,34 @@ namespace constructors{
         {
             
         }
+
         public string dispalyName(){
             return $"Id : {Id}\t Name: {FName} {LName}";
         }
 
     }
+
+        class PrivateCtor{
+        
+            private readonly int id;
+            private readonly string fname = "";
+            private readonly string lname = "";
+
+  
+            private PrivateCtor(int id,string fname, string lname){
+                this.id = id;
+                this.fname = fname;
+                this.lname = lname;
+            }
+
+            public static PrivateCtor Create(int id,string fname, string lname)
+            {
+                return new PrivateCtor(id,fname,lname);
+            }
+
+            public string dispalyName(){
+            return $"Id : {id}\t Name: {fname} {lname}";
+        }
+    }
+
 }

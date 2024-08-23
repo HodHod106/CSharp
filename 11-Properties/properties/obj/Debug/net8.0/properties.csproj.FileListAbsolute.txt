@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/bin/Debug/net8.0/properties
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/bin/Debug/net8.0/properties.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/bin/Debug/net8.0/properties.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/bin/Debug/net8.0/properties.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/bin/Debug/net8.0/properties.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/refint/properties.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/properties.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/11-Properties/properties/obj/Debug/net8.0/ref/properties.dll

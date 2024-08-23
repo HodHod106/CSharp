@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/bin/Debug/net8.0/indexers
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/bin/Debug/net8.0/indexers.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/bin/Debug/net8.0/indexers.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/bin/Debug/net8.0/indexers.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/bin/Debug/net8.0/indexers.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/refint/indexers.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/indexers.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/12-Indexers/indexers/obj/Debug/net8.0/ref/indexers.dll

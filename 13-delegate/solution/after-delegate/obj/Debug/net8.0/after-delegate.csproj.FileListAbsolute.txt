@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/bin/Debug/net8.0/after-delegate
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/bin/Debug/net8.0/after-delegate.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/bin/Debug/net8.0/after-delegate.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/bin/Debug/net8.0/after-delegate.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/bin/Debug/net8.0/after-delegate.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/refint/after-delegate.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/after-delegate.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/after-delegate/obj/Debug/net8.0/ref/after-delegate.dll

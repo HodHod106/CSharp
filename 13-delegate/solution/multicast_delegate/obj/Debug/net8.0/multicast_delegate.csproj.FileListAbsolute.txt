@@ -1,0 +1,15 @@
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/bin/Debug/net8.0/multicast_delegate
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/bin/Debug/net8.0/multicast_delegate.deps.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/bin/Debug/net8.0/multicast_delegate.runtimeconfig.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/bin/Debug/net8.0/multicast_delegate.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/bin/Debug/net8.0/multicast_delegate.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.AssemblyInfoInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.AssemblyInfo.cs
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.csproj.CoreCompileInputs.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.sourcelink.json
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/refint/multicast_delegate.dll
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.pdb
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/multicast_delegate.genruntimeconfig.cache
+/home/sherif-hodhod/Sherif/D/DotNet/c_sharp/advancedCSharp/mastring c#/13-delegate/solution/multicast_delegate/obj/Debug/net8.0/ref/multicast_delegate.dll
